@@ -1,4 +1,4 @@
-```javascript
+javascript
 /* eslint-disable no-restricted-globals */
 
 // This service worker can be customized!
@@ -74,4 +74,3 @@ self.addEventListener('message', (event) => {
 });
 
 // Any other custom service worker logic can go here.
-```​​​​​​​​​​​​​​​​
