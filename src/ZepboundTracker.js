@@ -1,4 +1,3 @@
-```javascript
 import React, { useState, useEffect } from 'react';
 import { LineChart, Line, AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, Legend, BarChart, Bar } from 'recharts';
 
@@ -291,4 +290,3 @@ const ZepboundTracker = () => {
 };
 
 export default ZepboundTracker;
-```​​​​​​​​​​​​​​​​
