@@ -1,8 +1,4 @@
-```css
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
+css
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -20,4 +16,3 @@ code {
 .pb-safe {
   padding-bottom: env(safe-area-inset-bottom);
 }
-```​​​​​​​​​​​​​​​​
