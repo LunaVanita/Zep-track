@@ -1,4 +1,3 @@
-```javascript
 import ZepboundTracker from './ZepboundTracker';
 
 function App() {
@@ -6,4 +5,3 @@ function App() {
 }
 
 export default App;
-```
